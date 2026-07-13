@@ -16,7 +16,7 @@ from PIL import Image
 import base64
 
 # Import our custom modules
-from model_trainer import ClassroomBehaviorTrainer
+from src.model_trainer import ClassroomBehaviorTrainer
 from video_analyzer import VideoAnalyzer
 
 # Page configuration
