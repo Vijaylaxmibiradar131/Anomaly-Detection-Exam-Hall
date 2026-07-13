@@ -17,7 +17,7 @@ import base64
 
 # Import our custom modules
 from src.model_trainer import ClassroomBehaviorTrainer
-from video_analyzer import VideoAnalyzer
+from src.video_analyzer import VideoAnalyzer
 
 # Page configuration
 st.set_page_config(
