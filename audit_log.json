@@ -1,0 +1,197 @@
+[
+  {
+    "timestamp": "2025-12-02T21:01:31.934554",
+    "event_type": "login_success",
+    "username": "admin",
+    "description": "User logged in successfully",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T21:01:55.562061",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T21:02:04.867730",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T21:02:06.555018",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T21:02:16.530196",
+    "event_type": "video_analyzed",
+    "username": "admin",
+    "description": "Analyzed video: video_20250913_131613.mp4",
+    "metadata": {
+      "total_anomalies": 5,
+      "threshold": 0.7
+    }
+  },
+  {
+    "timestamp": "2025-12-02T21:02:22.635934",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Model Training",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T21:02:25.473578",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Model Training",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T21:02:33.332580",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Reports",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T21:02:40.881514",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Reports",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T21:02:40.928965",
+    "event_type": "csv_exported",
+    "username": "admin",
+    "description": "Exported CSV report",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T21:02:49.957778",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Reports",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T21:03:04.243148",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed User Management",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T21:03:10.217130",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed User Management",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T21:03:17.582395",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Audit Log",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T21:03:21.404506",
+    "event_type": "logout",
+    "username": "admin",
+    "description": "User logged out",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T21:03:36.753036",
+    "event_type": "login_success",
+    "username": "proctor",
+    "description": "User logged in successfully",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T21:06:20.808481",
+    "event_type": "login_success",
+    "username": "proctor",
+    "description": "User logged in successfully",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T21:12:21.634767",
+    "event_type": "login_success",
+    "username": "proctor",
+    "description": "User logged in successfully",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T21:17:37.152774",
+    "event_type": "login_success",
+    "username": "proctor",
+    "description": "User logged in successfully",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T21:20:01.231456",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T21:20:07.122565",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T21:20:08.920969",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T21:20:23.641435",
+    "event_type": "video_analyzed",
+    "username": "proctor",
+    "description": "Analyzed video: video_20250913_134149.mp4",
+    "metadata": {
+      "total_anomalies": 8,
+      "threshold": 0.7
+    }
+  },
+  {
+    "timestamp": "2025-12-02T21:21:09.197187",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Reports",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T21:21:11.544136",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Reports",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T21:21:13.044374",
+    "event_type": "report_generated",
+    "username": "proctor",
+    "description": "Generated PDF report",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T21:21:14.790366",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Reports",
+    "metadata": {}
+  }
+]

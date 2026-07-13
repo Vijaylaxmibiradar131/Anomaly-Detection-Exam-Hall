@@ -1,0 +1,16 @@
+{
+  "admin": {
+    "password": "$2b$12$xgI0V2YIvPM/fY7JQKEug.LWik.Q02LyZP4fmoMIiuoOxK7QAQcce",
+    "role": "admin",
+    "name": "Administrator",
+    "email": "admin@example.com",
+    "created_at": "2025-12-02T21:06:00.674064"
+  },
+  "proctor": {
+    "password": "$2b$12$GuXvMt0mlIhEmCBxxmsDvO9ryn84X1wmuM.5elGWVhwgg5nDUyqUq",
+    "role": "proctor",
+    "name": "Proctor User",
+    "email": "proctor@example.com",
+    "created_at": "2025-12-02T21:06:01.561691"
+  }
+}

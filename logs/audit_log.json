@@ -1,0 +1,1090 @@
+[
+  {
+    "timestamp": "2025-12-01T21:26:56.373476",
+    "event_type": "login_success",
+    "username": "admin",
+    "description": "User logged in successfully",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-01T21:26:56.660345",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Dashboard",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-01T21:27:11.951182",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Dashboard",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-01T21:27:15.351828",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Dashboard",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-01T21:27:16.801245",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Dashboard",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-01T21:27:20.382315",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-01T21:27:35.416581",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-01T21:27:37.612585",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-01T21:27:38.947447",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-01T21:27:41.354107",
+    "event_type": "analysis_error",
+    "username": "admin",
+    "description": "Error analyzing video: VideoAnalyzer.analyze_video() got an unexpected keyword argument 'anomaly_threshold'",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-01T21:27:51.856062",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-01T21:27:53.094935",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-01T21:27:54.301089",
+    "event_type": "analysis_error",
+    "username": "admin",
+    "description": "Error analyzing video: VideoAnalyzer.analyze_video() got an unexpected keyword argument 'anomaly_threshold'",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-01T21:28:07.935258",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Reports",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-01T21:28:10.754397",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Reports",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-01T21:28:13.043515",
+    "event_type": "report_generated",
+    "username": "admin",
+    "description": "Generated PDF report",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-01T21:28:15.185898",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Reports",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-01T21:28:37.349200",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Privacy Settings",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-01T21:28:41.440391",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed User Management",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-01T21:28:47.425926",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Audit Log",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-01T21:28:54.451367",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Audit Log",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-01T21:29:00.262805",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Dashboard",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-01T21:29:04.073678",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Dashboard",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-01T21:29:06.271226",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-01T21:29:11.661839",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-01T21:29:16.132994",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-01T21:29:17.723412",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-01T21:29:18.952054",
+    "event_type": "analysis_error",
+    "username": "admin",
+    "description": "Error analyzing video: VideoAnalyzer.analyze_video() got an unexpected keyword argument 'anomaly_threshold'",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-01T21:31:16.128849",
+    "event_type": "login_success",
+    "username": "proctor",
+    "description": "User logged in successfully",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-01T21:31:16.388185",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Dashboard",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-01T21:31:33.909958",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-01T21:31:39.829264",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-01T21:31:41.914727",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-01T21:31:51.402535",
+    "event_type": "video_analyzed",
+    "username": "proctor",
+    "description": "Analyzed video: video_20250913_131613.mp4",
+    "metadata": {
+      "total_anomalies": 5,
+      "threshold": 0.7
+    }
+  },
+  {
+    "timestamp": "2025-12-01T21:32:03.624198",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-01T21:32:04.739924",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-01T21:34:10.717464",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Privacy Settings",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-01T21:34:14.330511",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Reports",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-01T21:34:23.379208",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-01T21:34:26.512467",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Dashboard",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-01T21:34:37.536694",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-01T21:34:45.414614",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-01T21:34:46.915124",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-01T21:34:53.963702",
+    "event_type": "video_analyzed",
+    "username": "proctor",
+    "description": "Analyzed video: video_20250913_131606.mp4",
+    "metadata": {
+      "total_anomalies": 2,
+      "threshold": 0.7
+    }
+  },
+  {
+    "timestamp": "2025-12-01T21:36:23.986753",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-01T21:36:37.422874",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-01T21:36:38.718566",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-01T21:37:47.951977",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-01T21:38:10.719529",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Dashboard",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T18:27:36.559445",
+    "event_type": "login_failed",
+    "username": "proctor",
+    "description": "Invalid password",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T18:27:47.153584",
+    "event_type": "login_success",
+    "username": "proctor",
+    "description": "User logged in successfully",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T18:27:47.408421",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Dashboard",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T18:59:50.902804",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T18:59:55.843095",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T18:59:58.002822",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:00:11.610305",
+    "event_type": "video_analyzed",
+    "username": "proctor",
+    "description": "Analyzed video: video_20250913_131613.mp4",
+    "metadata": {
+      "total_anomalies": 5,
+      "threshold": 0.7
+    }
+  },
+  {
+    "timestamp": "2025-12-02T19:06:22.663709",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Privacy Settings",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:06:25.843413",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Privacy Settings",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:06:27.139941",
+    "event_type": "privacy_applied",
+    "username": "proctor",
+    "description": "Applied pixelate to 5 snapshots",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:06:38.805816",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Privacy Settings",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:06:40.725229",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Privacy Settings",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:06:41.741822",
+    "event_type": "privacy_applied",
+    "username": "proctor",
+    "description": "Applied black_box to 5 snapshots",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:06:47.992815",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:06:53.489175",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:06:54.765856",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:06:58.420067",
+    "event_type": "analysis_error",
+    "username": "proctor",
+    "description": "Error analyzing video: [WinError 183] Cannot create a file when that file already exists: 'anomaly_snapshots\\\\anomaly_001_0-00-00_copying.jpg' -> 'anomaly_snapshots\\\\history\\\\anomaly_001_0-00-00_copying.jpg'",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:07:04.836892",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:07:08.503204",
+    "event_type": "analysis_error",
+    "username": "proctor",
+    "description": "Error analyzing video: [WinError 183] Cannot create a file when that file already exists: 'anomaly_snapshots\\\\anomaly_001_0-00-00_copying.jpg' -> 'anomaly_snapshots\\\\history\\\\anomaly_001_0-00-00_copying.jpg'",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:07:11.915253",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:07:21.754187",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:07:23.567837",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:07:26.753690",
+    "event_type": "analysis_error",
+    "username": "proctor",
+    "description": "Error analyzing video: [WinError 183] Cannot create a file when that file already exists: 'anomaly_snapshots\\\\anomaly_001_0-00-00_copying.jpg' -> 'anomaly_snapshots\\\\history\\\\anomaly_001_0-00-00_copying.jpg'",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:07:29.874841",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:07:32.799002",
+    "event_type": "analysis_error",
+    "username": "proctor",
+    "description": "Error analyzing video: [WinError 183] Cannot create a file when that file already exists: 'anomaly_snapshots\\\\anomaly_001_0-00-00_copying.jpg' -> 'anomaly_snapshots\\\\history\\\\anomaly_001_0-00-00_copying.jpg'",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:11:00.188101",
+    "event_type": "login_success",
+    "username": "proctor",
+    "description": "User logged in successfully",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:11:00.362875",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Dashboard",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:11:04.294149",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:11:13.296574",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:11:17.314433",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:11:21.554434",
+    "event_type": "video_analyzed",
+    "username": "proctor",
+    "description": "Analyzed video: video_20250913_134149.mp4",
+    "metadata": {
+      "total_anomalies": 8,
+      "threshold": 0.7
+    }
+  },
+  {
+    "timestamp": "2025-12-02T19:11:35.153239",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Privacy Settings",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:11:37.060817",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Privacy Settings",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:11:39.279465",
+    "event_type": "privacy_applied",
+    "username": "proctor",
+    "description": "Applied pixelate to 8 snapshots",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:12:05.565426",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Privacy Settings",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:12:07.280722",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Privacy Settings",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:12:09.314362",
+    "event_type": "privacy_applied",
+    "username": "proctor",
+    "description": "Applied black_box to 8 snapshots",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:22:43.141093",
+    "event_type": "login_success",
+    "username": "proctor",
+    "description": "User logged in successfully",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:22:51.134527",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:22:57.406285",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:22:59.864518",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:23:01.614344",
+    "event_type": "video_analyzed",
+    "username": "proctor",
+    "description": "Analyzed video: video_20250913_131606.mp4",
+    "metadata": {
+      "total_anomalies": 2,
+      "threshold": 0.7
+    }
+  },
+  {
+    "timestamp": "2025-12-02T19:23:33.844146",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Reports",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:23:37.776139",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:26:16.772109",
+    "event_type": "login_success",
+    "username": "proctor",
+    "description": "User logged in successfully",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:26:33.004749",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:26:38.053723",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Reports",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:26:40.546220",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:26:47.221668",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:26:50.747760",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:26:52.433055",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:26:54.123556",
+    "event_type": "video_analyzed",
+    "username": "proctor",
+    "description": "Analyzed video: video_20250913_131606.mp4",
+    "metadata": {
+      "total_anomalies": 2,
+      "threshold": 0.7
+    }
+  },
+  {
+    "timestamp": "2025-12-02T19:27:01.063158",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:27:16.879813",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Reports",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:27:19.449508",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Reports",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:27:19.689267",
+    "event_type": "report_generated",
+    "username": "proctor",
+    "description": "Generated PDF report",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:27:21.059451",
+    "event_type": "page_access",
+    "username": "proctor",
+    "description": "Accessed Reports",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:29:34.401878",
+    "event_type": "logout",
+    "username": "proctor",
+    "description": "User logged out",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:29:48.050483",
+    "event_type": "login_success",
+    "username": "admin",
+    "description": "User logged in successfully",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:30:04.114577",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:30:14.800289",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Model Training",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:30:18.446123",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Model Training",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:30:18.477817",
+    "event_type": "model_trained",
+    "username": "admin",
+    "description": "Trained model with 50 epochs",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:30:32.269237",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Reports",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:30:34.651147",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Reports",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:30:38.172990",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed User Management",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:30:50.287370",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed User Management",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T19:30:57.071348",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Audit Log",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T22:09:02.318481",
+    "event_type": "login_success",
+    "username": "admin",
+    "description": "User logged in successfully",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T22:09:23.441451",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T22:09:39.993261",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T22:09:42.347628",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T22:09:43.540924",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T22:09:50.751137",
+    "event_type": "video_analyzed",
+    "username": "admin",
+    "description": "Analyzed video: video_20250913_131606.mp4",
+    "metadata": {
+      "total_anomalies": 3,
+      "threshold": 0.7
+    }
+  },
+  {
+    "timestamp": "2025-12-02T22:09:57.570902",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Reports",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T22:10:02.226646",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Reports",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-02T22:10:02.265357",
+    "event_type": "csv_exported",
+    "username": "admin",
+    "description": "Exported CSV report",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-03T18:05:33.540225",
+    "event_type": "login_success",
+    "username": "admin",
+    "description": "User logged in successfully",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-03T18:05:52.344489",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-03T18:06:17.009469",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-03T18:06:19.071846",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-03T18:06:31.639055",
+    "event_type": "video_analyzed",
+    "username": "admin",
+    "description": "Analyzed video: video_20250913_134149.mp4",
+    "metadata": {
+      "total_anomalies": 8,
+      "threshold": 0.7
+    }
+  },
+  {
+    "timestamp": "2025-12-03T18:07:09.997613",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Model Training",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-03T18:07:18.248674",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Model Training",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-03T18:07:24.971418",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Reports",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-03T18:07:30.816576",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Reports",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-03T18:07:35.888992",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed User Management",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-03T18:08:27.129808",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed User Management",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-12-03T18:08:31.404884",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Audit Log",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-07-13T15:10:09.889315",
+    "event_type": "login_failed",
+    "username": "admin ",
+    "description": "User not found",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-07-13T15:10:51.746987",
+    "event_type": "login_failed",
+    "username": " proctor ",
+    "description": "User not found",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-07-13T15:10:54.825640",
+    "event_type": "login_failed",
+    "username": " proctor ",
+    "description": "User not found",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-07-13T15:11:04.325695",
+    "event_type": "login_failed",
+    "username": " proctor ",
+    "description": "User not found",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-07-13T15:11:07.224828",
+    "event_type": "login_failed",
+    "username": " proctor ",
+    "description": "User not found",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-07-13T15:12:36.546701",
+    "event_type": "login_failed",
+    "username": " proctor ",
+    "description": "User not found",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-07-13T15:12:57.861928",
+    "event_type": "login_success",
+    "username": "admin",
+    "description": "User logged in successfully",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-07-13T15:14:58.528476",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-07-13T15:28:23.219977",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-07-13T16:10:25.570129",
+    "event_type": "login_success",
+    "username": "admin",
+    "description": "User logged in successfully",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-07-13T16:10:36.875368",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-07-13T16:11:36.851698",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed Video Analysis",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-07-13T16:11:43.504199",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed User Management",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-07-13T16:26:25.945569",
+    "event_type": "page_access",
+    "username": "admin",
+    "description": "Accessed User Management",
+    "metadata": {}
+  }
+]

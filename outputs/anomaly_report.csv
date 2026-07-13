@@ -1,0 +1,9 @@
+frame_number,timestamp,timestamp_seconds,behavior,confidence
+SUMMARY,,,,
+Video Path,C:\Users\Admin\AppData\Local\Temp\tmppv2gv57t.mp4,,,
+Analysis Time,2025-12-02T22:09:50.751137,,,
+Total Anomalies,3,,,
+,,,,
+0,0:00:00,0.0,copying,0.9778478741645813
+75,0:00:02,2.5,copying,0.8735231757164001
+90,0:00:03,3.0,copying,0.9516004323959351

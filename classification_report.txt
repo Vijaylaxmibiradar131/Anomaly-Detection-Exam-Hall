@@ -1,0 +1,18 @@
+Classification Report
+===================
+
+                  precision    recall  f1-score   support
+
+      Discussing       1.00      0.91      0.96        82
+          Normal       0.67      1.00      0.80        82
+         Peeking       0.96      0.91      0.94        82
+   cheat passing       0.79      0.33      0.47        82
+         copying       1.00      1.00      1.00        80
+  showing answer       1.00      1.00      1.00        82
+      suspicious       0.47      1.00      0.64        82
+using copy cheat       0.55      0.35      0.43        82
+    using mobile       1.00      0.44      0.61        82
+
+        accuracy                           0.77       736
+       macro avg       0.83      0.77      0.76       736
+    weighted avg       0.83      0.77      0.76       736

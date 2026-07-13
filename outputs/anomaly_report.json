@@ -1,0 +1,68 @@
+{
+  "video_path": "C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpiuwyjlr0.mp4",
+  "analysis_timestamp": "2025-12-03T18:06:31.630642",
+  "total_anomalies": 8,
+  "anomaly_summary": {
+    "using mobile": 3,
+    "copying": 1,
+    "using copy cheat": 4
+  },
+  "detailed_anomalies": [
+    {
+      "frame_number": 0,
+      "timestamp": "0:00:00",
+      "timestamp_seconds": 0.0,
+      "behavior": "using mobile",
+      "confidence": 0.9566653370857239
+    },
+    {
+      "frame_number": 30,
+      "timestamp": "0:00:01",
+      "timestamp_seconds": 1.0,
+      "behavior": "using mobile",
+      "confidence": 0.9851205945014954
+    },
+    {
+      "frame_number": 60,
+      "timestamp": "0:00:02",
+      "timestamp_seconds": 2.0,
+      "behavior": "using mobile",
+      "confidence": 0.9851886034011841
+    },
+    {
+      "frame_number": 240,
+      "timestamp": "0:00:08",
+      "timestamp_seconds": 8.0,
+      "behavior": "copying",
+      "confidence": 0.81480872631073
+    },
+    {
+      "frame_number": 300,
+      "timestamp": "0:00:10",
+      "timestamp_seconds": 10.0,
+      "behavior": "using copy cheat",
+      "confidence": 0.961730420589447
+    },
+    {
+      "frame_number": 330,
+      "timestamp": "0:00:11",
+      "timestamp_seconds": 11.0,
+      "behavior": "using copy cheat",
+      "confidence": 0.9751608967781067
+    },
+    {
+      "frame_number": 360,
+      "timestamp": "0:00:12",
+      "timestamp_seconds": 12.0,
+      "behavior": "using copy cheat",
+      "confidence": 0.9364513158798218
+    },
+    {
+      "frame_number": 390,
+      "timestamp": "0:00:13",
+      "timestamp_seconds": 13.0,
+      "behavior": "using copy cheat",
+      "confidence": 0.9908198714256287
+    }
+  ]
+}

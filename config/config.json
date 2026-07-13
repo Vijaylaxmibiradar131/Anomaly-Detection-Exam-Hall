@@ -1,0 +1,21 @@
+{
+  "model": {
+    "path": "classroom_behavior_model.h5",
+    "class_indices_path": "class_indices.json",
+    "image_size": [224, 224],
+    "batch_size": 32,
+    "learning_rate": 0.001,
+    "epochs": 50
+  },
+  "video_analysis": {
+    "default_frame_skip": 30,
+    "anomaly_threshold": 0.7,
+    "max_anomaly_snapshots": 50,
+    "snapshot_dir": "anomaly_snapshots"
+  },
+  "ui": {
+    "theme": "dark",
+    "max_displayed_anomalies": 9,
+    "chart_height": 400
+  }
+}

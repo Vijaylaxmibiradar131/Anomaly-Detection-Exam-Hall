@@ -1,0 +1,63 @@
+{\rtf1\ansi\deff0
+{\fonttbl{\f0 Calibri;}}
+\fs24
+\b Project Synopsis: Anomaly Detection in Exam Hall \b0\par
+\par
+\b 1. Introduction \b0\par
+This project applies deep learning and computer vision to identify misconduct in exam halls (e.g., copying or cheating) by analyzing video files and generating actionable evidence for review.\par
+\par
+\b 2. Objectives \b0\par
+- Automatically detect anomalous behaviors during examinations.\par
+- Provide evidence snapshots and structured logs for auditing.\par
+- Offer a reproducible workflow for analysis, review, and model improvement.\par
+\par
+\b 3. Scope \b0\par
+The system processes exam hall videos, classifies behaviors using a CNN, and outputs anomaly snapshots, JSON reports, and performance summaries. A review interface is available to browse results; training scripts enable continuous model enhancement.\par
+\par
+\b 4. Methodology \b0\par
+- Input: Exam hall video files.\par
+- Preprocessing: Frame extraction, resizing/normalization.\par
+- Model: Convolutional Neural Network for behavior classification.\par
+- Detection: Frames/segments flagged as normal or anomalous.\par
+- Output: Timestamped snapshots, anomaly logs (`anomaly_report.json`), metrics (`classification_report.txt`), and confusion matrix.\par
+\par
+\b 5. System Components \b0\par
+- `video_analyzer.py`: Runs inference on videos, generates snapshots and reports.\par
+- `model_trainer.py`: Trains/updates `.h5` weights and evaluation artifacts.\par
+- `streamlit_app.py`: Review interface to browse anomalies and analytics.\par
+- Artifacts: `best_classroom_model.h5`, `classroom_behavior_model.h5`, `class_indices.json`, `anomaly_snapshots/`, `confusion_matrix.png`.\par
+\par
+\b 6. Dataset & Training \b0\par
+Labeled footage (normal vs. copying/cheating) is used to train and validate the CNN. Performance is tracked using accuracy, precision, recall, F1-score, and confusion matrices.\par
+\par
+\b 7. Implementation Workflow \b0\par
+1) Analyze video: `run_project.bat analyze --input your_video.mp4`.\par
+2) Review evidence: Check `anomaly_snapshots/` and `anomaly_report.json`.\par
+3) Browse analytics: `run_project.bat app`.\par
+4) Retrain model: `run_project.bat train --epochs 10`.\par
+\par
+\b 8. Requirements \b0\par
+- Python 3.8+ and virtual environment (`classroom_monitor_env`).\par
+- Libraries: TensorFlow/Keras, OpenCV, Streamlit (optional), NumPy, Pandas, Matplotlib.\par
+- Video input; GPU recommended for performance.\par
+\par
+\b 9. Applications \b0\par
+- Examination monitoring and post-exam auditing.\par
+- Institutional integrity checks and incident documentation.\par
+\par
+\b 10. Benefits \b0\par
+- Objective detection and clear evidence artifacts.\par
+- Scalable and reproducible pipeline for multiple exam sessions.\par
+\par
+\b 11. Limitations & Considerations \b0\par
+- Accuracy depends on labeled data quality and coverage of behaviors.\par
+- Privacy and compliance must be managed for video usage.\par
+\par
+\b 12. Future Enhancements \b0\par
+- Expanded behavior taxonomy and better temporal modeling.\par
+- Privacy-preserving features (face blurring, role-based access).\par
+- Batch processing and per-exam dashboards; containerized deployment.\par
+\par
+\b 13. Conclusion \b0\par
+The system provides a practical approach to exam hall anomaly detection, combining CNN-based classification with evidence generation and review tooling, aimed at strengthening academic integrity and simplifying incident analysis.\par
+}

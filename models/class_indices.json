@@ -1,0 +1,11 @@
+{
+  "Discussing": 0,
+  "Normal": 1,
+  "Peeking": 2,
+  "cheat passing": 3,
+  "copying": 4,
+  "showing answer": 5,
+  "suspicious": 6,
+  "using copy cheat": 7,
+  "using mobile": 8
+}

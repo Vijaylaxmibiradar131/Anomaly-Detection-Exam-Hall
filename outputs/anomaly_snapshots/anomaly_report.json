@@ -1,0 +1,24 @@
+{
+  "video_path": "C:\\Users\\Admin\\AppData\\Local\\Temp\\tmp_42ynn66.mp4",
+  "analysis_timestamp": "2025-12-02T19:26:54.123556",
+  "total_anomalies": 2,
+  "anomaly_summary": {
+    "copying": 2
+  },
+  "detailed_anomalies": [
+    {
+      "frame_number": 0,
+      "timestamp": "0:00:00",
+      "timestamp_seconds": 0.0,
+      "behavior": "copying",
+      "confidence": 0.9778478741645813
+    },
+    {
+      "frame_number": 90,
+      "timestamp": "0:00:03",
+      "timestamp_seconds": 3.0,
+      "behavior": "copying",
+      "confidence": 0.9516004323959351
+    }
+  ]
+}
