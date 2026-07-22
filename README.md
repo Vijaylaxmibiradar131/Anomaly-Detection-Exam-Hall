@@ -377,9 +377,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
- Email - watarenaveen@gmail.com
+ Email - vijaylaxmibiradar131@gmail.com
 
-Project Link: [https://github.com/Naveenexe/anomaly-detection-exam-hall]
+Project Link: [https://github.com/Vijaylaxmibiradar131/Anomaly-Detection-Exam-Hall]
 
 ---
 
